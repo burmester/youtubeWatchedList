@@ -1,0 +1,7 @@
+[Settings]
+ID = "4bcdb4ce-db2b-4e2e-92ca-939fe43301f3"
+
+[build]
+  Command = "yarn build"
+  Functions = "functions"
+  Publish = "build"
